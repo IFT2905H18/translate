@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">translate</string>
+    <string name="choose_a_friend">Choose a friend</string>
+    <string name="add">Add</string>
+    <string name="greet">Greet</string>
+    <string name="greeting">Hello %1$s !</string>
+    <string name="welcome_messages" translatable="false">Hello, %1$s  You have %2$d new messages.</string>
+
+    <plurals name="nb_friends">
+        <item quantity="one">You have %1$d friend</item>
+        <item quantity="other">You have %1$d friends</item>
+    </plurals>
+</resources>
